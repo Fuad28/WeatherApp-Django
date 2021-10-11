@@ -1,0 +1,24 @@
+h1
+
+ {
+color: #ADD8E6;
+background-color: #FFA500;
+padding: 10px 20px;
+border: 1px solid #dddddd;
+border-radius: 3px;
+margin-bottom: 20px;
+
+}
+
+button{
+background-color: #ADD8E6}
+
+input {
+padding: 5px
+}
+
+.forms{
+padding: 100px 100px 100px 500px;
+border: 1px solid #dddddd;
+border-radius: 3px;
+margin-bottom: 20px;}
